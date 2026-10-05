@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Gunthrala
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning UE
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I’m interested in Game Development and Engineering
+- I’m currently learning OpenGL
 
 <!---
 Gunthrala/Gunthrala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
