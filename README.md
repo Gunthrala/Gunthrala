@@ -2,10 +2,10 @@
 - I’m interested in Game Development and Engineering
 - I’m currently learning OpenGL
 
-- My biggest interests in programming are
-- Optimization
-- A visible product with my code (I.E. A completed feature in a game, or a website becoming functional)
-- The combination of Software and Hardware - I have worked with Arduinos and enjoy it quite a lot
+- My biggest interests in programming are:
+Optimization
+A visible product with my code (I.E. A completed feature in a game, or a website becoming functional)
+The combination of Software and Hardware - I have worked with Arduinos and enjoy it quite a lot
 
 <!-- Update skills list -->
 - Programming languages I am skilled in are
