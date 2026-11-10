@@ -3,7 +3,7 @@
 - I’m currently learning OpenGL
 
 - My biggest interests in programming are:
-Optimization
+Optimization \n
 A visible product with my code (I.E. A completed feature in a game, or a website becoming functional)
 The combination of Software and Hardware - I have worked with Arduinos and enjoy it quite a lot
 
